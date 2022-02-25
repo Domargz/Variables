@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enteros", "Enteros\Enteros.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoPerimetro", "CalculoPerimetro\CalculoPerimetro.csproj", "{778AA717-AA9F-4838-8D96-F94FCB1120AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoArea", "CalculoArea\CalculoArea.csproj", "{5349E977-5E28-4B74-9650-3097BA0322FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{778AA717-AA9F-4838-8D96-F94FCB1120AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{778AA717-AA9F-4838-8D96-F94FCB1120AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{778AA717-AA9F-4838-8D96-F94FCB1120AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5349E977-5E28-4B74-9650-3097BA0322FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5349E977-5E28-4B74-9650-3097BA0322FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5349E977-5E28-4B74-9650-3097BA0322FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5349E977-5E28-4B74-9650-3097BA0322FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
